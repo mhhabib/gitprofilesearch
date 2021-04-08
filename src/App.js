@@ -70,8 +70,8 @@ function App() {
         }
       })
   }
-  allrepos.sort(function(a,b){
-    return a.stargazers_count - b.stargazers_count;
+  allrepos.sort(function (a, b) {
+      return a.stargazers_count - b.stargazers_count || a.forks_count-b.forks_count;
     }
   );
   allrepos.reverse();
