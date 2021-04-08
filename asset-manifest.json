@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gitprofilesearch/static/css/main.c5a4adae.chunk.css",
-    "main.js": "/gitprofilesearch/static/js/main.6fe1ea38.chunk.js",
-    "main.js.map": "/gitprofilesearch/static/js/main.6fe1ea38.chunk.js.map",
+    "main.js": "/gitprofilesearch/static/js/main.f06fef81.chunk.js",
+    "main.js.map": "/gitprofilesearch/static/js/main.f06fef81.chunk.js.map",
     "runtime-main.js": "/gitprofilesearch/static/js/runtime-main.ec316f97.js",
     "runtime-main.js.map": "/gitprofilesearch/static/js/runtime-main.ec316f97.js.map",
     "static/css/2.8a070f38.chunk.css": "/gitprofilesearch/static/css/2.8a070f38.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.8a070f38.chunk.css",
     "static/js/2.5564502a.chunk.js",
     "static/css/main.c5a4adae.chunk.css",
-    "static/js/main.6fe1ea38.chunk.js"
+    "static/js/main.f06fef81.chunk.js"
   ]
 }
