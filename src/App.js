@@ -71,12 +71,7 @@ function App() {
       })
   }
   allrepos.sort(function(a,b){
-      if(a.stargazers_count - b.stargazers_count){
-        return a.stargazers_count - b.stargazers_count;
-      }
-      else{
-          return a.forks_coun - b.forks_coun;
-      }
+      return a.stargazers_count - b.stargazers_count || a.forks_coun - b.forks_coun;
     }
   );
   allrepos.reverse();
